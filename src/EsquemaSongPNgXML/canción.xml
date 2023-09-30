@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cancion duracion="4:47" anio="2008">
+    <Titulo> Give it me  </Titulo>
+    <Compositores>
+        <Compositor>
+            <Nombres>Pharrel</Nombres>
+            <Apellidos>Williams</Apellidos>
+        </Compositor>
+    </Compositores>
+    <Productores>
+        <Productor>
+            <Nombres> Pharrel </Nombres>
+            <Apellidos>Williams</Apellidos>
+        </Productor>
+    </Productores>
+    <Sello> Warner Bros Records </Sello>
+    <Artista> Madonna </Artista>
+</cancion>

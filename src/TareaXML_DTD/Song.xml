@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mr.Music>
+    <cancion duracion="6:00" anio="1975">
+        <Titulo>Bohemian Rhapsody</Titulo>
+        <Compositores>
+            <Compositor>
+                <Nombres>Freddy</Nombres>
+                <Apellidos>Mercury</Apellidos>
+            </Compositor>
+        </Compositores>
+        <Productores>
+            <Productor>
+                <Nombres>Reinhold Mack</Nombres>
+            </Productor>
+        </Productores>
+        <Sello>EMI Records</Sello>
+        <Artista>Queen</Artista>
+    </cancion>
+    <cancion duracion="4:55" anio="2012">
+        <Titulo>Maquiavélico</Titulo>
+        <Compositores>
+            <Compositor>
+                <Nombres>Tirone José</Nombres>
+                <Apellidos>González Orama</Apellidos>
+            </Compositor>
+        </Compositores>
+        <Productores>
+            <Productor>
+                <Nombres>Kpú</Nombres>
+            </Productor>
+        </Productores>
+        <Sello>Independiente</Sello>
+        <Artista>Canserbero</Artista>
+    </cancion>
+    <cancion duracion="3:12" anio="1974">
+        <Titulo>Killer Queen</Titulo>
+        <Compositores>
+            <Compositor>
+                <Nombres>Freddy</Nombres>
+                <Apellidos>Mercury</Apellidos>
+            </Compositor>
+        </Compositores>
+        <Productores>
+            <Productor>
+                <Nombres>Reinhold Mack</Nombres>
+            </Productor>
+        </Productores>
+        <Sello>Parlophone</Sello>
+        <Artista>Queen</Artista>
+    </cancion>
+</Mr.Music>

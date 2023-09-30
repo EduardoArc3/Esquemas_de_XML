@@ -1,0 +1,16 @@
+<!DOCTYPE Mr.Music [
+        <!ELEMENT Mr.Music (cancion)*>
+        <!ELEMENT cancion (Titulo|Compositores|Productores|Sello|Artista)*>
+        <!ATTLIST cancion
+                anio CDATA #REQUIRED
+                duracion CDATA #REQUIRED>
+        <!ELEMENT Titulo (#PCDATA)>
+        <!ELEMENT Compositores (Compositor)*>
+        <!ELEMENT Compositor (Nombres|Apellidos)*>
+        <!ELEMENT Nombres (#PCDATA)>
+        <!ELEMENT Apellidos (#PCDATA)>
+        <!ELEMENT Productores (Productor)*>
+        <!ELEMENT Productor (Nombres)*>
+        <!ELEMENT Sello (#PCDATA)>
+        <!ELEMENT Artista (#PCDATA)>
+        ]>
